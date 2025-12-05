@@ -11,14 +11,14 @@
     "ScreenshotFour": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png"
   },
   {
-    "AppPhoto": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude",
-    "AppName": "Example App",
-    "AppVersion": "1.0.0",
-    "AppSize": "100 MB",
-    "AppInfo": "com.example.app",
-    "ScreenshotOne": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude",
-    "ScreenshotTwo": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude",
-    "ScreenshotThree": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude",
-    "ScreenshotFour": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude"
+    "AppPhoto": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/icon.webp",
+    "AppName": "Dude Theft Wars",
+    "AppVersion": "0.9.0.9f6",
+    "AppSize": "190 MB",
+    "AppInfo": "com.PoxelStudios.DudeTheftAuto",
+    "ScreenshotOne": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
+    "ScreenshotTwo": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
+    "ScreenshotThree": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
+    "ScreenshotFour": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png"
   }
 ]
