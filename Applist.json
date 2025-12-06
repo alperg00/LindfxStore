@@ -8,7 +8,15 @@
     "ScreenshotOne": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
     "ScreenshotTwo": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
     "ScreenshotThree": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
-    "ScreenshotFour": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png"
+    "ScreenshotFour": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
+    
+    // YENİ EKLENEN KODLAR
+    "AboutTitle": "About This Game",
+    "AboutFeatures": [
+      "~ Money",
+      "~ Speed",
+      "~ Bunkarda özellikler"
+    ]
   },
   {
     "AppPhoto": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/icon.webp",
@@ -19,6 +27,14 @@
     "ScreenshotOne": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
     "ScreenshotTwo": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
     "ScreenshotThree": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
-    "ScreenshotFour": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png"
+    "ScreenshotFour": "https://raw.githubusercontent.com/alperg00/LindfxStore/main/Dude Theft Wars/photo.png",
+    
+    // YENİ EKLENEN KODLAR
+    "AboutTitle": "About This Game",
+    "AboutFeatures": [
+      "~ Money",
+      "~ Speed",
+      "~ Bunkarda özellikler"
+    ]
   }
 ]
